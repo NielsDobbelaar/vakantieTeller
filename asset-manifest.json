@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vakantieTeller/static/css/main.f1d00f04.css",
+    "main.js": "/vakantieTeller/static/js/main.be417bfe.js",
+    "index.html": "/vakantieTeller/index.html",
+    "main.f1d00f04.css.map": "/vakantieTeller/static/css/main.f1d00f04.css.map",
+    "main.be417bfe.js.map": "/vakantieTeller/static/js/main.be417bfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d00f04.css",
+    "static/js/main.be417bfe.js"
+  ]
+}
